@@ -1,0 +1,13 @@
+
+.Map {
+    position: absolute;
+    inset: 0px;
+    z-index: 1;
+    width: 100%;
+    height: calc(100% - 52px);
+    top: 52px;
+    /* position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 1; */
+}

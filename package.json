@@ -1,0 +1,29 @@
+{
+  "name": "vite-template-solid",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.5",
+    "vite": "^4.1.1",
+    "vite-plugin-solid": "^2.5.0"
+  },
+  "dependencies": {
+    "@hope-ui/solid": "^0.6.7",
+    "@stitches/core": "^1.2.8",
+    "mapbox-gl": "npm:empty-npm-package@^1.0.0",
+    "maplibre-gl": "^2.4.0",
+    "solid-icons": "^1.0.4",
+    "solid-js": "^1.6.10",
+    "solid-map-gl": "^1.7.0",
+    "solid-transition-group": "^0.0.10",
+    "solid-zustand": "^1.5.0",
+    "zustand": "^4.3.6"
+  }
+}
